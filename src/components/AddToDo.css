@@ -1,0 +1,16 @@
+input{
+    background: transparent;
+    border-top: solid transparent ;
+    border-left: solid transparent ;
+    border-right: solid transparent ;
+    border-bottom: solid white ;
+}
+.buttonAddToDo
+{
+    background-color: transparent;
+    border: transparent;
+}
+p{
+    color: white;
+}
+ 

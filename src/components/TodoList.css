@@ -1,0 +1,16 @@
+
+
+.classInLine
+{
+        align-items: center;
+        justify-content: space-between;
+}
+
+
+.formToSend{
+    color: yellow;
+}
+.formToSend.invalid label{
+    color: yellow;
+    text-decoration: line-through;
+}
